@@ -13,7 +13,7 @@ An interactive **Power BI Dashboard** built on Blinkit's grocery sales data to a
 
 ## 🖼️ Dashboard Preview
 
-![Blinkit Dashboard](dashboard_screenshot.png)
+![Blinkit Dashboard](Screenshot 2026-04-12 213630.png)
 
 ---
 
